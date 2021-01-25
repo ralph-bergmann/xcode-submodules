@@ -1,0 +1,16 @@
+PODS:
+  - SwiftDate (6.3.1)
+
+DEPENDENCIES:
+  - SwiftDate (~> 6.3.1)
+
+SPEC REPOS:
+  trunk:
+    - SwiftDate
+
+SPEC CHECKSUMS:
+  SwiftDate: 72d28954e8e1c6c1c0f917ccc8005e4f83c7d4b2
+
+PODFILE CHECKSUM: 1835f8392f37a810f7ee2c2b7363d4c37a3f987e
+
+COCOAPODS: 1.10.0.beta.1
